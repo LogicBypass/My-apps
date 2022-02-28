@@ -31,7 +31,7 @@ if len(sys.argv) == 2:
 else:
 	print("Invalid amount of arguments.")
 	print("Syntax: python3 scanner.py <hostname or IP>")
-	print("\n")
+	print("Example: python3 scanner.py 192.168.100.1")
 
 #Scaninfo
 print("*"*50)
